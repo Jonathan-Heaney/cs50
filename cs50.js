@@ -81,4 +81,4 @@ function validateNum(string) {
   else return true;
 }
 
-// console.log(validateNum('4003600000000014'));
+console.log(validateNum('4003600000000014'));
